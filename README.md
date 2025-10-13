@@ -25,7 +25,7 @@ A simple command-line-to-do list manager built with Python. Part of my 6-month g
 ## Installation
 1. Clone this repository:
 ```bash
-git clone https://github.com/Softeeng/todo-list-app.git
+git clone https://github.com/Softeeng/To-Do-List-App
 cd todo-list-app
 ```
 2. Run the application
@@ -51,11 +51,10 @@ All tasks are automatically saved to tasks.json in the same directory
 
 ## Project Structure
 todo-list-app/
-|
-├── todo_list.py    # Main application file
-├── tasks.json      # Auto-generated data file (not tracked in git)
-├── README.md       # This file
-└──.gitignore       # Git ignore rules
+│── todo_list.py     # Main application file
+|── tasks.json       # Auto-generated date file (not tracked in git)
+│── README.md        # This file
+│── .gitignore       # Git ignore rules
 
 ---
 
