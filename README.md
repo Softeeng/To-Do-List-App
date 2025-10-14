@@ -1,4 +1,4 @@
-## To-Do List Console App
+## 📃 To-Do List Console App
 
 ---
 
@@ -6,7 +6,7 @@ A simple command-line-to-do list manager built with Python. Part of my 6-month g
 
 ---
 
-## Features
+## ✨ Features
 - Add new tasks with descriptions
 - Edit existing task descriptions
 - Delete tasks with confirmation
@@ -16,13 +16,13 @@ A simple command-line-to-do list manager built with Python. Part of my 6-month g
 
 ---
 
-## Requirements
+## 💻 Requirements
 - Python 3.6 or higher
 - No external dependencies (uses only standard library)
 
 ---
 
-## Installation
+## ⚙️ Installation
 1. Clone this repository:
 ```bash
 git clone https://github.com/Softeeng/To-Do-List-App
@@ -35,7 +35,7 @@ python todo_list.py
 
 ---
 
-## Usage
+## 📍 Usage
 The app presents a menu-driven interface:
 1. View all tasks - Display your complete task list
 2. Add a task - Create a new task
@@ -49,20 +49,17 @@ All tasks are automatically saved to tasks.json in the same directory
 
 ---
 
-## Project Structure
+## 📁 Project Structure
+```text
 todo-list-app/
-
 │── todo_list.py     # Main application file 
-
 |── tasks.json       # Auto-generated date file (not tracked in git) 
-
 │── README.md        # This file 
-
 │── .gitignore       # Git ignore rules
-
+```
 ---
 
-## Learning Objectives
+## 📌 Learning Objectives
 This project helped me practice:
 - Object-oriented programming (OOP) with classes
 - File I/O operations (reading/writing JSON)
@@ -72,7 +69,7 @@ This project helped me practice:
 
 ---
 
-## Future Enhancements
+## 🌟 Future Enhancements
 Potential features to add:
 - Task priorities (high, medium, low)
 - Due dates and reminders
@@ -82,13 +79,13 @@ Potential features to add:
 
 ---
 
-## Roadmap Context
+## 🛣️ Roadmap Context
 This is completing Month 1 of my [6-Month Game & Software Dev Project Roadmap](https://github.com/Softeeng/6-Month-Roadmap/tree/main?tab=readme-ov-file)
 
 **Month 1 Goal:** Build a console-based To-Do-List App with full CRUD operations and file persistence.
 
-## License
+## 📄 License
 This project is open source and available for educational purposes.
 
-## Author
+## 👩🏽‍💻 Author
 LaTiryni Gilbert - [Softeeng](https://github.com/Softeeng)
