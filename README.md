@@ -53,8 +53,11 @@ All tasks are automatically saved to tasks.json in the same directory
 todo-list-app/
 
 │── todo_list.py     # Main application file 
+
 |── tasks.json       # Auto-generated date file (not tracked in git) 
+
 │── README.md        # This file 
+
 │── .gitignore       # Git ignore rules
 
 ---
@@ -80,7 +83,8 @@ Potential features to add:
 ---
 
 ## Roadmap Context
-This is completing Month 1 of my 6-Month Game & Software Dev Project Roadmap
+This is completing Month 1 of my [6-Month Game & Software Dev Project Roadmap](https://github.com/Softeeng/6-Month-Roadmap/tree/main?tab=readme-ov-file)
+
 **Month 1 Goal:** Build a console-based To-Do-List App with full CRUD operations and file persistence.
 
 ## License
